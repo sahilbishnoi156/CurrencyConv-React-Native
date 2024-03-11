@@ -1,4 +1,4 @@
-package com.currencyconvertor
+package com.newproj
 
 import android.app.Application
 import com.facebook.react.PackageList

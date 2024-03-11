@@ -7,11 +7,11 @@
 #define TIMEOUT_SECONDS 600
 #define TEXT_TO_LOOK_FOR @"Welcome to React"
 
-@interface currencyconvertorTests : XCTestCase
+@interface newprojTests : XCTestCase
 
 @end
 
-@implementation currencyconvertorTests
+@implementation newprojTests
 
 - (BOOL)findSubviewInView:(UIView *)view matching:(BOOL (^)(UIView *view))test
 {
